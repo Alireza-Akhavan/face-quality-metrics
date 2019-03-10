@@ -2,7 +2,7 @@
 Quality Metrics for face identification problem
 
 ## implementations
-https://nbviewer.jupyter.org/github/alireza-akhavan/face-quality-metrics/blob/master/Face%20Quality%20Assessment.ipynb
+[Face Quality Assessment.ipynb](https://nbviewer.jupyter.org/github/alireza-akhavan/face-quality-metrics/blob/master/Face%20Quality%20Assessment.ipynb)
 
 
 ## papers
