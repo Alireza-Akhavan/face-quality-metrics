@@ -1,0 +1,1 @@
+more about this detection code: https://github.com/Alireza-Akhavan/deep-face-recognition
