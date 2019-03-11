@@ -10,7 +10,7 @@ Quality Metrics for face identification problem
 ### Face Quality Assessment for Face Verification in Video (Графикон'2014) *
 https://pdfs.semanticscholar.org/2c0a/caec54ab2585ff807e18b6b9550c44651eab.pdf?_ga=2.118968650.2116578973.1552199994-98267093.1547624592
 
-### Improving face recognition with a quality-based probabilistic framework (CVPR 2009) *
+### Improving face recognition with a quality-based probabilistic framework (CVPR 2009) **
 https://ieeexplore.ieee.org/document/5204299
 
 ### Face Quality Assessment System in Video Sequences <br> European Workshop on Biometrics and Identity Management. Springer, Berlin, Heidelberg, 2008.
@@ -24,3 +24,4 @@ https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICPR-2012/media/files/0454.
  
  
  *the main idea from this paper
+ ** nice training senario
