@@ -5,6 +5,9 @@ Quality Metrics for face identification problem
 [Face Quality Assessment.ipynb](https://nbviewer.jupyter.org/github/alireza-akhavan/face-quality-metrics/blob/master/Face%20Quality%20Assessment.ipynb)
 
 
+## datasets
+[Quality—Face/Iris Research Ensemble (Q-FIRE)](https://citer.clarkson.edu/biometric-dataset-collections/quality-faceiris-research-ensemble-q-fire/)
+
 ## papers
 
 ### Face Quality Assessment for Face Verification in Video (Графикон'2014) *
