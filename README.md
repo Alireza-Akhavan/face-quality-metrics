@@ -26,5 +26,14 @@ https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICPR-2012/media/files/0454.
  https://ieeexplore.ieee.org/document/7892186
  
  
+# Deep Approach
+
+### FaceQnet: Quality Assessment for Face Recognition based on Deep Learning  (2019)
+
+https://arxiv.org/abs/1904.01740
+
+https://github.com/uam-biometrics/FaceQnet
+ 
  *the main idea from this paper
+ 
  ** nice training senario
